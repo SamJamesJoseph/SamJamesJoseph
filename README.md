@@ -1,4 +1,13 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&text=Welcome%20to%20my%20GitHub&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
+<a href="#">
+  <img 
+    align="left" 
+    alt="React" 
+    width="100%" 
+    style="padding-right:10px;" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8B0000,50:FF1493,100:8B008B&text=Welcome%20to%20my%20GitHub&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" 
+  />
+</a><br>
+
 
 
 <center>
@@ -94,6 +103,6 @@ Feel free to connect with me! I'm always open to interesting conversations and c
 <div align="center">
 <br>
 <p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Unnimaya6122004}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SamJamesJoseph}/count.svg" /></p> 
 </div>
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&section=footer" /></a>
